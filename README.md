@@ -74,7 +74,7 @@ Classifying student positions and behaviors in an e-learning environment for ada
 
 ## 🧑‍🤝‍🧑 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hafsa-batool-4b81b3224/) [![Email](https://img.shields.io/badge/Email-hafsa@example.com-red?style=flat&logo=gmail)](mailto:hafsabatool4@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hafsa-batool-4b81b3224/) [![Email](https://img.shields.io/badge/Email-hafsabatool4@gmail.com-red?style=flat&logo=gmail)](mailto:hafsabatool4@gmail.com)
 
 ---
 
