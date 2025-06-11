@@ -20,27 +20,16 @@
 ---
 
 ## 💼 Key Projects
-
-### 🚗 **IN-attentive driver detection`**   
-Object detection and classification of driver behaviors to improve road safety.
-### 🧠 **Brain Stroke Segmentation**  
-Deep learning for localizing and segmenting brain strokes in medical images.
-### 💓 **Vitals Prediction from rPPG Signals**  
-Estimating vital signs like heart rate using non-contact signal processing methods.
-### 🗨️ **Health Chatbot**  
-A GPT-based chatbot built using OpenAI's models to assist with health-related queries.
-### 🗣️ **ASR Models for Low-Resource Languages**  
-Developed speech-to-text solutions for low-resource languages using deep learning.
-### 🕺 **Pose Estimation for Parkinson’s Disease Detection**  
-Human skeleton extraction and pose estimation to detect Parkinson’s symptoms through handcrafted features.
-### 🔍 **Fine-Grained Detection**  
-Fine-grained classification tasks for distinguishing visually similar object categories.
-### 🌿 **Weeds Segmentation & Classification**  
-Used deep learning to segment and classify weeds in agricultural fields.
-### 🔞 **Explicit Content Detection**  
-Detecting and classifying explicit content in images and videos using deep learning techniques.
-### 🎓 **Student Position Classification for E-Learning**  
-Classifying student positions and behaviors in an e-learning environment for adaptive learning systems.
+- **🚗 IN-attentive Driver Detection**: Object detection for road safety by identifying driver behaviors.
+- **🧠 Brain Stroke Segmentation**: Deep learning for segmenting brain strokes in medical images.
+- **💓 Vitals Prediction from rPPG**: Estimating vital signs (e.g., heart rate) using non-contact signal processing.
+- **🗨️ Health Chatbot**: GPT-based chatbot to assist with health-related queries.
+- **🗣️ ASR Models for Low-Resource Languages**: Speech-to-text solutions for low-resource languages.
+- **🕺 Pose Estimation for Parkinson’s Detection**: Detecting Parkinson’s symptoms using pose estimation.
+- **🔍 Fine-Grained Detection**: Classifying visually similar object categories.
+- **🌿 Weeds Segmentation & Classification**: Deep learning for classifying weeds in agricultural fields.
+- **🔞 Explicit Content Detection**: Detecting and classifying explicit content in images and videos.
+- **🎓 Student Position Classification for E-Learning**: Classifying student behaviors in e-learning environments for adaptive systems.
 
 ---
 
@@ -52,7 +41,6 @@ Classifying student positions and behaviors in an e-learning environment for ada
 - **Frameworks & Libraries**:  
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ,![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) , ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
   
-
 - **APIs**:  
   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
@@ -62,13 +50,13 @@ Classifying student positions and behaviors in an e-learning environment for ada
 - **Deployment**:  
     ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ---
-## 📊 GitHub Stats
+## 📊 GitHub Stats & 🔥 GitHub Streaks
 
-![Hafsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HafsaBatool&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HafsaBatool&show_icons=true&theme=tokyonight" alt="Hafsa's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HafsaBatool&theme=tokyonight" alt="GitHub Streak" width="48%" />
+</p>
 
-### 🔥 GitHub Streaks
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HafsaBatool&theme=tokyonight)
 
 ---
 
@@ -78,4 +66,4 @@ Classifying student positions and behaviors in an e-learning environment for ada
 
 ---
 
-> _"The best way to predict the future is to invent it."_ – Alan Kay
+
