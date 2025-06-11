@@ -1,37 +1,38 @@
-# 👋 Hi there, I'm **Hafsa Batool**  
+# 👋 Hi there, I'm **Hafsa Batool**   
 ### 🤖 AI Engineer | 🧠 Deep Learning Enthusiast | 📊 Data-driven Problem Solver
 
 ---
 
 ## 🌟 About Me
 
-🎓 I’m an **AI Engineer** with expertise in **Machine Learning** and **Deep Learning**.  
+<small>🎓 I’m an **AI Engineer** with expertise in **Machine Learning** and **Deep Learning**.  
 🔍 Passionate about solving **real-world problems** using data, spanning domains like healthcare, safety, and agriculture.  
-📚 Constantly refining my skills and staying up-to-date with the latest **AI/ML advancements**.
+📚 Constantly refining my skills and staying up-to-date with the latest **AI/ML advancements**.</small>
 
 ---
 
 ## 🚀 Expertise
 
-- 🧠 **Machine Learning**, 📉 **Deep Learning**, 🧬 **Computer Vision**
-- 🧾 **Signal Processing**, 🗣️ **NLP**, 🧠 **Medical AI**
-- 🛠️ **OpenCV**, **Keras**, **CUDA**
+- <small> 🧠 **Machine Learning**, 📉 **Deep Learning**, 🧬 **Computer Vision**  
+- 🧾 **Signal Processing**, 🗣️ **NLP**, 🧠 **Medical AI**  
+- 🛠️ **OpenCV**, **Keras**, **CUDA**</small>
 
 ---
 
 ## 💼 Key Projects
-- **🚗 IN-attentive Driver Detection**: Object detection for road safety by identifying driver behaviors.
-- **🧠 Brain Stroke Segmentation**: Deep learning for segmenting brain strokes in medical images.
-- **💓 Vitals Prediction from rPPG**: Estimating vital signs (e.g., heart rate) using non-contact signal processing.
-- **🗨️ Health Chatbot**: GPT-based chatbot to assist with health-related queries.
-- **🗣️ ASR Models for Low-Resource Languages**: Speech-to-text solutions for low-resource languages.
-- **🕺 Pose Estimation for Parkinson’s Detection**: Detecting Parkinson’s symptoms using pose estimation.
-- **🔍 Fine-Grained Detection**: Classifying visually similar object categories.
-- **🌿 Weeds Segmentation & Classification**: Deep learning for classifying weeds in agricultural fields.
-- **🔞 Explicit Content Detection**: Detecting and classifying explicit content in images and videos.
-- **🎓 Student Position Classification for E-Learning**: Classifying student behaviors in e-learning environments for adaptive systems.
+<small>- **🚗 IN-attentive Driver Detection**: Object detection for road safety by identifying driver behaviors.  
+- **🧠 Brain Stroke Segmentation**: Deep learning for segmenting brain strokes in medical images.  
+- **💓 Vitals Prediction from rPPG**: Estimating vital signs (e.g., heart rate) using non-contact signal processing.  
+- **🗨️ Health Chatbot**: GPT-based chatbot to assist with health-related queries.  
+- **🗣️ ASR Models for Low-Resource Languages**: Speech-to-text solutions for low-resource languages.  
+- **🕺 Pose Estimation for Parkinson’s Detection**: Detecting Parkinson’s symptoms using pose estimation.  
+- **🔍 Fine-Grained Detection**: Classifying visually similar object categories.  
+- **🌿 Weeds Segmentation & Classification**: Deep learning for classifying weeds in agricultural fields.  
+- **🔞 Explicit Content Detection**: Detecting and classifying explicit content in images and videos.  
+- **🎓 Student Position Classification for E-Learning**: Classifying student behaviors in e-learning environments for adaptive systems.</small>
 
 ---
+
 
 ## 🛠️ Tech Stack
 
