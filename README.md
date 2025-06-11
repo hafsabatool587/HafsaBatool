@@ -15,14 +15,14 @@
 
 - 🧠 **Machine Learning**, 📉 **Deep Learning**, 🧬 **Computer Vision**
 - 🧾 **Signal Processing**, 🗣️ **NLP**, 🧠 **Medical AI**
-- 🛠️ Python, PyTorch, TensorFlow, OpenCV, scikit-learn, Keras, CUDA
+- 🛠️ **OpenCV**, **Keras**, **CUDA**
 
 ---
 
 ## 💼 Key Projects
 
-### 🚗 **Driver Activity Recognition** *(In Progress)*  
-Real-time object detection and classification of driver behaviors to improve road safety.
+### 🚗 **IN-attentive driver detection`**   
+Object detection and classification of driver behaviors to improve road safety.
 
 ### 🧠 **Brain Stroke Segmentation**  
 Deep learning for localizing and segmenting brain strokes in medical images.
@@ -45,14 +45,18 @@ Fine-grained classification tasks for distinguishing visually similar object cat
 ### 🌿 **Weeds Segmentation & Classification**  
 Used deep learning to segment and classify weeds in agricultural fields.
 
+### 🔞 **Explicit Content Detection**  
+Detecting and classifying explicit content in images and videos using deep learning techniques.
+
+### 🎓 **Student Position Classification for E-Learning**  
+Classifying student positions and behaviors in an e-learning environment for adaptive learning systems.
+
 ---
 
 ## 🛠️ Tech Stack
 
 - **Languages**:  
   ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 - **Frameworks & Libraries**:  
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
